@@ -6,4 +6,4 @@
 - 😄 Pronouns: she/her
 
 ### Languages and tools
-aws css3 docker express figma html5 javascript jest nodejs postgresql react tailwind typescript
+TypeScript | JavaScript | HTML | CSS | JSX | React.js | Node.js | Express.js | PostgreSQL | Tailwind | AWS
